@@ -1,2 +1,2 @@
 # studies-ai
-it help in studio of an kind
+it help in studio of any kind
